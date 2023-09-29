@@ -1,0 +1,14 @@
+#home
+{
+    color:black;
+    background-color: rgb(180, 231, 218);
+    border-width: 1px;
+    padding: 5px;
+    border-radius: 15px;
+}
+
+.head1
+{
+    width: 100%;
+    margin: 0;
+}
